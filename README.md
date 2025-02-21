@@ -3,13 +3,29 @@ An advanced authentication system built using the MERN stack (MongoDB, Express, 
 
 🔥 Features
 ✅ User Sign Up with email OTP verification
+
+
 ✅ User Login with session persistence (Redux)
+
+
 ✅ Forgot Password functionality
+
+
 ✅ Reset Password via email OTP
+
+
 ✅ Secure Logout mechanism
+
+
 ✅ User data stored in Redux and persists even after a page refresh
 
+
 🛠 Tech Stack
+
 Frontend: React.js, Redux Toolkit, Redux Persist, TailwindCSS
+
+
 Backend: Node.js, Express.js, MongoDB, Mongoose
+
+
 Authentication: JWT, bcrypt, Nodemailer (for OTP emails)
