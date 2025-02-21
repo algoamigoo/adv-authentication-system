@@ -23,6 +23,8 @@ An advanced authentication system built using the MERN stack (MongoDB, Express, 
 ✅ User data stored in Redux and persists even after a page refresh
 
 
+
+
 **🛠 Tech Stack**
 
 Frontend: React.js, Redux Toolkit, Redux Persist, TailwindCSS
