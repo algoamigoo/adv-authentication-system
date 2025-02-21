@@ -2,7 +2,7 @@
 An advanced authentication system built using the MERN stack (MongoDB, Express, React, Node.js) with Redux for state management and persistence. This project includes secure authentication features like email OTP verification, password reset, and persistent user sessions.
 
 
-🔥 Features
+**Features**
 
 
 ✅ User Sign Up with email OTP verification
@@ -23,7 +23,7 @@ An advanced authentication system built using the MERN stack (MongoDB, Express, 
 ✅ User data stored in Redux and persists even after a page refresh
 
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 Frontend: React.js, Redux Toolkit, Redux Persist, TailwindCSS
 
